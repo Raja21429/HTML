@@ -1,0 +1,10 @@
+.one{
+   color: red;
+   background: #000;
+   margin: 50px;
+   padding: 10px;
+   padding-left: 25%;
+   border-color: red;
+   border-width: 5px;
+   border-style: ridge;
+}
