@@ -1,0 +1,42 @@
+body{
+    background: url("/CSS.Basic/LoginPage/images\ \(1\).jpg");
+    font-family: 'Times New Roman', Times, serif
+}
+.regform{
+    width: 500px;
+    margin: 200px auto;
+    background-color: rgb(0,0,0,.5);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.regform h2{
+    /* text-align: center; */
+    color: #E29578;
+    margin-left: 200px;
+    
+}
+.regform .text{
+    display: flex;
+    
+}
+.regform .radio{
+    padding: 10px;
+}
+.regform .input{
+    margin-left: 10em ;
+}
+.regform .radio{
+    margin-left: 9em;
+}
+.regform .btn{
+    padding-left: 10em;
+}
+
+
+
+
+
+
+
