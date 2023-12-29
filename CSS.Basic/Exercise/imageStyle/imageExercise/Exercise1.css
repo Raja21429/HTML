@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: aquamarine;
+}
+.main{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(0,0,0,.5);
+    margin: 100px auto;
+}
+.border{
+    border: 4px black solid;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+.image{
+    width: 290px;
+    height: 290px;
+    background-image: url("/photo.jpg");
+    background-position: top center;
+    background-size: 100%;
+    border-radius: 200px;
+    position: relative;
+    left: 108px;
+    bottom: 250px;
+    animation: animation 5s backwards;
+}
+@keyframes animation{
+    19%{
+        width: 200px;
+        height: 200px;
+        margin: 45px ;
+    } 
+
+}
