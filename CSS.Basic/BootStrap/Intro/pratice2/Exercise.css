@@ -1,0 +1,30 @@
+.container{
+    background-color: blue;
+    height: 200px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+h2{
+    text-align: center;
+}
+.one{
+    padding: 20px;
+    text-align: justify;
+}
+.c1{
+    
+    background-color: rgb(247, 239, 239);
+    padding: 50px;
+    
+}
+.c2{
+    
+    background-color: whitesmoke;
+    padding: 50px;
+}
+.c3{
+    
+    background-color: rgb(243, 235, 220);
+    padding: 50px;
+}

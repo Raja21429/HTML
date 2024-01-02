@@ -1,0 +1,36 @@
+.container{
+    background-color: lightblue;
+    height: 100px;
+}
+.container-fluid{
+    background-color: aqua;
+    height: 100px;
+}
+.container-md{
+    background-color: black;
+    height: 100px;
+}
+.container-sm{
+    background-color: blue;
+    height: 100px;
+}
+.container-xl{
+    background-color: antiquewhite;
+    height: 100px;
+}
+.container-xxl{
+    background-color: bisque;
+    height: 100px;
+}
+.row{
+    background-color: aliceblue;
+    height: 100px;
+    
+}
+.c1{
+    background-color: blueviolet;
+    
+}
+.c2{
+    background-color: brown;
+}

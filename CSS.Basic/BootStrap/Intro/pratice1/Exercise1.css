@@ -1,0 +1,15 @@
+.container{
+    background-color: aqua;
+    height: 200px;
+}
+.container-sm{
+    height: 450px;
+}
+.c1{
+    background-color: lightblue;
+    height: 500px;
+}
+.c2{
+    background-color: black;
+    height: 500px;
+}
